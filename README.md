@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debashis Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently working at Victoria's Secret as a Senior Frontend developer.
 
 - 💬 Ask me about **react, javascript**
 
